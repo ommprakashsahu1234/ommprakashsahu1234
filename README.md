@@ -15,7 +15,7 @@
 - 🎯 Goal: To **develop new technologies** that improve educational systems and software efficiency  
 - 🧑‍🚀 Dream: To join the **Indian Air Force as a fighter pilot** ✈️  
 - 🎬 I also make fun IPL reels roasting RCB on **Instagram** 😄  
-- 📫 Reach me at: ommprakashsahu1234@gmail.com  
+- 📫 Reach me at: opsommprakash+github@gmail.com 
 
 ---
 
