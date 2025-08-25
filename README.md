@@ -16,7 +16,7 @@
 - 🧑‍🚀 Dream: To join the **Create Real life Application which can help mass people in real life** ✈️  
 - 🎬 I also make fun IPL reels roasting RCB on **Instagram** 😄  
 - 📫 Reach me at: opsommprakash+github@gmail.com
-- 🟨 Portfolio : **ommprakashsahu-portfolio.netlify.app**
+- 🟨 Portfolio : ommprakashsahu-portfolio.netlify.app
 
 ---
 
