@@ -22,7 +22,7 @@
 
 ### 🔧 Technologies & Tools I Use
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,linux,vscode,vercel,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,linux,vscode,vercel,github,netlify" />
 </p>
 
 ---
