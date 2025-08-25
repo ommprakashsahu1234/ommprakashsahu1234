@@ -8,14 +8,15 @@
 ---
 
 - 👀 I’m deeply interested in **Web Development**, **AI**, and **Cybersecurity**  
-- 🌱 Currently pursuing **BTech in Computer Science Engineering (4th Semester)**  
+- 🌱 Currently pursuing **BTech in Computer Science Engineering (5th Semester)**  
 - 💻 Actively working on full-stack projects using the **MERN stack**  
-- 🔐 Interning at **ShadowFox** with tasks involving **penetration testing & ethical hacking**  
-- 🧠 Learning React, MongoDB, Express, Node.js, Kali Linux, and Metasploit  
+- 🔐 Interning as **Fullstack Web Developer**  
+- 🧠 Learning React, MongoDB, Express, Node.js, Kali Linux  
 - 🎯 Goal: To **develop new technologies** that improve educational systems and software efficiency  
-- 🧑‍🚀 Dream: To join the **Indian Air Force as a fighter pilot** ✈️  
+- 🧑‍🚀 Dream: To join the **Create Real life Application which can help mass people in real life** ✈️  
 - 🎬 I also make fun IPL reels roasting RCB on **Instagram** 😄  
-- 📫 Reach me at: opsommprakash+github@gmail.com 
+- 📫 Reach me at: opsommprakash+github@gmail.com
+- 🟨 Portfolio : **ommprakashsahu-portfolio.netlify.app**
 
 ---
 
@@ -27,14 +28,19 @@
 ---
 
 ### 🚀 Featured Projects
-- 🎓 **Alumni Portal** for college communication
-- ☕ **Tanjore Coffee Website Redesign**
+
+* 🎓 **Alumni Portal** for college communication
+* ☕ **Tanjore Coffee Website Redesign**
+* 🏦 **Bank Management System** for loan & account management
+* 📱 **MeetX App** (Social Media Platform like Instagram)
+* 🔗 **Get Links** (Customizable Link Shortener & Manager)
+* 💻 **SQL Browser** (Runnable SQL Queries in Web Interface)
 
 ---
 
+
 ### 🏆 Achievements & Goals
-- ✔️ Completed internship at ShadowFox (Web)
-- 🔄 Working on hosting backend using **Oracle Cloud** and frontend on **Netlify**
+- 🔄 Working on hosting backend using **Render** and frontend on **Netlify**
 - 🎯 Future Plans: Build an **AI chatbot**, explore **Fullstack Web development**, and master **React animations**
 
 ---
