@@ -14,7 +14,6 @@
 - 🧠 Learning React, MongoDB, Express, Node.js, Kali Linux  
 - 🎯 Goal: To **develop new technologies** that improve educational systems and software efficiency  
 - 🧑‍🚀 Dream: To join the **Create Real life Application which can help mass people in real life** ✈️  
-- 🎬 I also make fun IPL reels roasting RCB on **Instagram** 😄  
 - 📫 Reach me at: opsommprakash+github@gmail.com
 - 🟨 Portfolio : <a href="https://ommprakashsahu-portfolio.netlify.app"> Omm Prakash Sahu </a>
 
