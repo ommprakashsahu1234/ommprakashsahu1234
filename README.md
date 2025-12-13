@@ -28,11 +28,11 @@
 
 ### 🚀 Featured Projects
 
+* 📱 **MeetX App** (Social Media Platform like Instagram)
+* 🔗 **Get Links** (Customizable Link Shortener & Manager)
 * 🎓 **Alumni Portal** for college communication
 * ☕ **Tanjore Coffee Website Redesign**
 * 🏦 **Bank Management System** for loan & account management
-* 📱 **MeetX App** (Social Media Platform like Instagram)
-* 🔗 **Get Links** (Customizable Link Shortener & Manager)
 * 💻 **SQL Browser** (Runnable SQL Queries in Web Interface)
 
 ---
