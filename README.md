@@ -8,7 +8,7 @@
 ---
 
 - 👀 I’m deeply interested in **Web Development**, **AI**, and **Cybersecurity**  
-- 🌱 Currently pursuing **BTech in Computer Science Engineering (5th Semester)**  
+- 🌱 Currently pursuing **BTech in Computer Science Engineering**  
 - 💻 Actively working on full-stack projects using the **MERN stack**  
 - 🔐 Interning as **Fullstack Web Developer**  
 - 🧠 Learning React, MongoDB, Express, Node.js, Kali Linux  
