@@ -7,7 +7,7 @@
 
 ---
 
-- 👀 I’m deeply interested in **Web Development**, **AI**, and **Cybersecurity**  
+- 👀 I’m deeply interested in **Web Development** and **AI**
 - 🌱 Currently pursuing **BTech in Computer Science Engineering**  
 - 💻 Actively working on full-stack projects using the **MERN stack**  
 - 🔐 Interning as **Fullstack Web Developer**  
