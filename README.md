@@ -21,7 +21,7 @@
 
 ### 🔧 Technologies & Tools I Use
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,c,express,mongodb,cpp,vscode,vercel,github,netlify,anaconda,eclipse" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,c,express,mongodb,cpp,vscode,vercel,github,netlify,anaconda,eclipse,blender" />
 </p>
 
 ---
