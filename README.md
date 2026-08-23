@@ -273,9 +273,6 @@ const ommPrakashSahu = {
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ommprakashsahu1234&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1"/>
-
 <br/><br/>
 
 <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="72" title="Pair Extraordinaire"/>&nbsp;
@@ -290,16 +287,7 @@ const ommPrakashSahu = {
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ommprakashsahu1234&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00E5&text_color=ffffff&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommprakashsahu1234&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=ffffff"/>
-
 <br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ommprakashsahu1234&theme=radical&hide_border=true&background=0D0221&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF"/>
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ommprakashsahu1234&theme=react-dark&hide_border=true&bg_color=0D0221&color=00F0FF&line=FF00E5&point=39FF14" width="95%"/>
 
 </div>
@@ -307,18 +295,6 @@ const ommPrakashSahu = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:7303C0,100:00F0FF&height=4&width=1000" width="100%"/>
 
 <h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ommprakashsahu1234/ommprakashsahu1234/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ommprakashsahu1234/ommprakashsahu1234/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ommprakashsahu1234/ommprakashsahu1234/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-<sub>⚙️ Auto-generated daily via GitHub Actions — enable it using the <code>.github/workflows/snake.yml</code> file provided</sub>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7303C0,100:FF00E5&height=4&width=1000" width="100%"/>
 
