@@ -1,200 +1,347 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Omm%20Prakash%20Sahu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20BTech%20CSE%20%272027%20%7C%20Building%20real-world%20apps&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,35:7303C0,70:00F0FF,100:0D0221&height=230&section=header&text=OMM%20PRAKASH%20SAHU&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20B.Tech%20CSE%20%2727&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full+Stack+Developer+%7C+MERN+Stack;AI+%26+Web+Enthusiast+%F0%9F%A4%96;Turning+Ideas+into+Real+Applications+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=95&lines=Building+Real-World+Full+Stack+Applications;MERN+Stack+%7C+REST+APIs+%7C+System+Design;3x+Internship+Experience+%7C+7.91+CGPA;Currently%3A+Programmer+Analyst+Intern+%40+FutureX" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://ommprakashsahu-portfolio.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/omm-prakash-sahu/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/ommprakash1234">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://instagram.com/ommprakashsahu1234">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/ommfbpage">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="mailto:opsommprakash+github@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://ommprakashsahu-portfolio.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-0D0221?style=for-the-badge&logo=vercel&logoColor=00F0FF&labelColor=000000"/></a>
+<a href="mailto:opsommprakash@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D0221?style=for-the-badge&logo=gmail&logoColor=FF00E5&labelColor=000000"/></a>
+<a href="https://www.linkedin.com/in/omm-prakash-sahu/"><img src="https://img.shields.io/badge/LINKEDIN-0D0221?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=000000"/></a>
+<a href="https://x.com/ommprakash1234"><img src="https://img.shields.io/badge/X-0D0221?style=for-the-badge&logo=x&logoColor=FF00E5&labelColor=000000"/></a>
+<a href="https://instagram.com/ommprakashsahu1234"><img src="https://img.shields.io/badge/INSTAGRAM-0D0221?style=for-the-badge&logo=instagram&logoColor=39FF14&labelColor=000000"/></a>
+<a href="https://www.facebook.com/ommfbpage"><img src="https://img.shields.io/badge/FACEBOOK-0D0221?style=for-the-badge&logo=facebook&logoColor=00F0FF&labelColor=000000"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ommprakashsahu1234&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/ommprakashsahu1234?label=Followers&style=for-the-badge&color=blue" />
-<img src="https://img.shields.io/badge/GITA%20Autonomous%20College-B.Tech%20CSE%20'27-2c5364?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ommprakashsahu1234&label=PROFILE+VIEWS&color=7303C0&style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/github/followers/ommprakashsahu1234?label=FOLLOWERS&style=for-the-badge&color=00F0FF&labelColor=000000"/>
+<img src="https://img.shields.io/badge/CGPA-7.91%2F10-39FF14?style=for-the-badge&labelColor=000000"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7303C0,100:FF00E5&height=4&width=1000" width="100%"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<br/>
 
-## 🧑‍🚀 About Me
+<div align="center">
+
+### 🗂️ Quick Navigation
+
+[`About`](#-about-me) • [`Education`](#-education) • [`Skills`](#-tech-arsenal) • [`Experience`](#-experience) • [`Projects`](#-featured-projects) • [`Awards`](#-awards--achievements) • [`GitHub Stats`](#-github-analytics) • [`Snake`](#-contribution-snake)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:7303C0,100:00F0FF&height=4&width=1000" width="100%"/>
+
+<h2 align="center">🧑‍🚀 About Me</h2>
+
+<div align="center">
 
 ```typescript
 const ommPrakashSahu = {
-    location: "Bhubaneswar, India 🇮🇳",
-    college: "GITA Autonomous College — B.Tech CSE (2027)",
-    role: "Fullstack Web Developer Intern",
-    stack: ["React", "Node.js", "Express", "MongoDB"],
-    currentlyLearning: ["React Animations", "AI Chatbots", "Kali Linux"],
+    location: "Bhubaneswar, Odisha, India 🇮🇳",
+    education: "B.Tech CSE @ GITA Autonomous College (2023 - 2027)",
+    cgpa: "7.91 / 10",
+    role: "Programmer Analyst Intern @ FutureX by Techrays Labs",
+    stack: ["React.js", "Node.js", "Express.js", "MongoDB", "TypeScript"],
+    currentlyExploring: ["React Animations", "AI Chatbots", "System Design"],
     interests: ["Web Development 🌐", "Artificial Intelligence 🤖", "Cybersecurity 🔐"],
-    goal: "Build real-life applications that help people at scale 🚀",
+    mission: "Build real-life applications that create impact at scale 🚀",
     funFact: "Ran a full WiFi deauth + cracking experiment... on my own router 😅"
 };
 ```
 
-- 👀 Deeply interested in **Web Development** and **AI**
-- 🌱 Currently pursuing **B.Tech in Computer Science Engineering**
-- 💻 Actively building full-stack projects using the **MERN stack**
-- 🔐 Interning as a **Fullstack Web Developer**
-- 🧠 Learning **React, MongoDB, Express, Node.js & Kali Linux**
-- 🎯 Goal: develop technologies that improve **educational systems** & **software efficiency**
-- 🧑‍🚀 Dream: build **real-life applications that help the masses** ✈️
-- 📫 Reach me at **opsommprakash+github@gmail.com**
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,c,cpp,vscode,vercel,netlify,github,anaconda,eclipse,blender,kali,linux&perline=10" />
-</p>
+</div>
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+🔭 Actively building full-stack products using the **MERN stack**&nbsp; | &nbsp;🧠 3x Internship experience across **Web, Android & Analyst** roles
+📫 **opsommprakash@gmail.com**&nbsp; | &nbsp;🎯 Goal — improve **educational systems** & **software efficiency** through real applications
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7303C0,100:FF00E5&height=4&width=1000" width="100%"/>
 
-## 🚀 Featured Projects
+<h2 align="center">🎓 Education</h2>
 
 <div align="center">
 
-<a href="https://github.com/ommprakashsahu1234/BEHIND-THE-BROWSER">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ommprakashsahu1234&repo=BEHIND-THE-BROWSER&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/ommprakashsahu1234/Bank-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ommprakashsahu1234&repo=Bank-Management-System&theme=tokyonight&hide_border=true" />
-</a>
-<br/>
-<a href="https://github.com/ommprakashsahu1234/DSA_CPP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ommprakashsahu1234&repo=DSA_CPP&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/ommprakashsahu1234/OmmPrakashSahu-Web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ommprakashsahu1234&repo=OmmPrakashSahu-Web&theme=tokyonight&hide_border=true" />
-</a>
+| 🏫 Institution | 🎓 Degree | 📅 Duration | 📊 CGPA |
+|:---:|:---:|:---:|:---:|
+| **GITA Autonomous College**, Bhubaneswar | B.Tech — Computer Science & Engineering | 2023 – 2027 | **7.91 / 10** |
+
+<sub>**Key Courses:** Data Structures • Database Management • OOP (Java) • Operating Systems • Computer Networks • Machine Learning • Software Engineering</sub>
 
 </div>
 
-| Project | Description |
-|---|---|
-| 📱 **MeetX App** | Social media platform inspired by Instagram |
-| 🔗 **Get Links** | Customizable link shortener & manager |
-| 🎓 **Alumni Portal** | Communication platform for college alumni |
-| ☕ **Tanjore Coffee** | Full website redesign for a coffee brand |
-| 🏦 **Bank Management System** | Loan & account management system |
-| 💻 **SQL Browser** | Run SQL queries directly in a web interface |
-| 🎟️ **BEHIND THE BROWSER** | Full-stack event platform: registration, QR check-ins, admin dashboard, certificate automation |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:7303C0,100:00F0FF&height=4&width=1000" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ommprakashsahu1234&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" />
-</p>
-
-<p align="center">
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="70" title="Pair Extraordinaire"/>
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="70" title="Pull Shark"/>
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="70" title="YOLO"/>
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="70" title="Quickdraw"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 📊 GitHub Stats
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ommprakashsahu1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommprakashsahu1234&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,react,html,css,bootstrap,tailwind,nodejs,express,mongodb,mysql,oracle,firebase,git,github,figma,vercel,netlify,androidstudio,blender,kali,linux,vscode&perline=9"/>
 
+<br/><br/>
+
+**Languages**
 <br/>
+![C](https://img.shields.io/badge/C-0D0221?style=flat-square&logo=c&logoColor=00F0FF&labelColor=000000)
+![C++](https://img.shields.io/badge/C++-0D0221?style=flat-square&logo=cplusplus&logoColor=00F0FF&labelColor=000000)
+![Java](https://img.shields.io/badge/Java-0D0221?style=flat-square&logo=openjdk&logoColor=FF00E5&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-0D0221?style=flat-square&logo=python&logoColor=39FF14&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-0D0221?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D0221?style=flat-square&logo=typescript&logoColor=00F0FF&labelColor=000000)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ommprakashsahu1234&theme=tokyonight&hide_border=true" />
-
+**Frontend**
 <br/>
+![React](https://img.shields.io/badge/React.js-0D0221?style=flat-square&logo=react&logoColor=00F0FF&labelColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-0D0221?style=flat-square&logo=html5&logoColor=FF00E5&labelColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-0D0221?style=flat-square&logo=css3&logoColor=00F0FF&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D0221?style=flat-square&logo=bootstrap&logoColor=FF00E5&labelColor=000000)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D0221?style=flat-square&logo=tailwindcss&logoColor=39FF14&labelColor=000000)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0D0221?style=flat-square&logo=framer&logoColor=00F0FF&labelColor=000000)
+![Vite](https://img.shields.io/badge/Vite-0D0221?style=flat-square&logo=vite&logoColor=FF00E5&labelColor=000000)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ommprakashsahu1234&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+**Backend**
+<br/>
+![Node.js](https://img.shields.io/badge/Node.js-0D0221?style=flat-square&logo=nodedotjs&logoColor=39FF14&labelColor=000000)
+![Express](https://img.shields.io/badge/Express.js-0D0221?style=flat-square&logo=express&logoColor=00F0FF&labelColor=000000)
+![JWT](https://img.shields.io/badge/JWT-0D0221?style=flat-square&logo=jsonwebtokens&logoColor=FF00E5&labelColor=000000)
+![OAuth](https://img.shields.io/badge/OAuth-0D0221?style=flat-square&logo=auth0&logoColor=00F0FF&labelColor=000000)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0D0221?style=flat-square&logo=fastapi&logoColor=39FF14&labelColor=000000)
+![Socket.io](https://img.shields.io/badge/Socket.io-0D0221?style=flat-square&logo=socketdotio&logoColor=FF00E5&labelColor=000000)
+
+**Database**
+<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-0D0221?style=flat-square&logo=mongodb&logoColor=39FF14&labelColor=000000)
+![Mongoose](https://img.shields.io/badge/Mongoose-0D0221?style=flat-square&logo=mongoose&logoColor=FF00E5&labelColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-0D0221?style=flat-square&logo=mysql&logoColor=00F0FF&labelColor=000000)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-0D0221?style=flat-square&logo=oracle&logoColor=FF00E5&labelColor=000000)
+![Firebase](https://img.shields.io/badge/Firebase-0D0221?style=flat-square&logo=firebase&logoColor=39FF14&labelColor=000000)
+
+**Tools & Platforms**
+<br/>
+![Git](https://img.shields.io/badge/Git-0D0221?style=flat-square&logo=git&logoColor=FF00E5&labelColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-0D0221?style=flat-square&logo=github&logoColor=ffffff&labelColor=000000)
+![Postman](https://img.shields.io/badge/Postman-0D0221?style=flat-square&logo=postman&logoColor=FF6C37&labelColor=000000)
+![Vercel](https://img.shields.io/badge/Vercel-0D0221?style=flat-square&logo=vercel&logoColor=ffffff&labelColor=000000)
+![Render](https://img.shields.io/badge/Render-0D0221?style=flat-square&logo=render&logoColor=00F0FF&labelColor=000000)
+![Netlify](https://img.shields.io/badge/Netlify-0D0221?style=flat-square&logo=netlify&logoColor=39FF14&labelColor=000000)
+![Android Studio](https://img.shields.io/badge/Android_Studio-0D0221?style=flat-square&logo=androidstudio&logoColor=39FF14&labelColor=000000)
+![Blender](https://img.shields.io/badge/Blender-0D0221?style=flat-square&logo=blender&logoColor=FF7139&labelColor=000000)
+
+**AI Tools**
+<br/>
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-0D0221?style=flat-square&logo=githubcopilot&logoColor=ffffff&labelColor=000000)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0D0221?style=flat-square&logo=openai&logoColor=39FF14&labelColor=000000)
+![Claude](https://img.shields.io/badge/Claude-0D0221?style=flat-square&logo=anthropic&logoColor=FF00E5&labelColor=000000)
+
+**Concepts:** `Authentication & Authorization` `Role-Based Access Control` `MVC Architecture` `CRUD Operations`
+<br/>
+**OS:** `Windows` `Linux` &nbsp;|&nbsp; **Soft Skills:** `Problem Solving` `Consistency` `Self-Learning` `Leadership`
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7303C0,100:FF00E5&height=4&width=1000" width="100%"/>
 
-## 🐍 Contribution Snake
+<h2 align="center">💼 Experience</h2>
+
+<div align="center">
+
+<table>
+<tr><th align="center">Organization</th><th align="center">Role</th><th align="center">Duration</th></tr>
+<tr>
+<td align="center"><b>FutureX by Techrays Labs</b></td>
+<td align="center">Programmer Analyst Intern</td>
+<td align="center">Jul 2026 – Sep 2026</td>
+</tr>
+<tr>
+<td align="center"><b>Estacha Innovation Incubator Pvt. Ltd.</b></td>
+<td align="center">Web Development Intern</td>
+<td align="center">May 2025 – Jun 2025</td>
+</tr>
+<tr>
+<td align="center"><b>LIT (Learning Institute of Technology)</b></td>
+<td align="center">Android Development Intern</td>
+<td align="center">May 2024 – Jun 2024</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔽 Click to expand detailed responsibilities</b></summary>
+<br/>
+
+**🟣 Programmer Analyst Intern — FutureX by Techrays Labs** *(Virtual Internship)*
+- Developed and tested web applications as part of a MERN Stack development internship
+- Analyzed software issues and contributed clean, well-documented code
+- Participated in code reviews and project development activities
+
+**🔵 Web Development Intern — Estacha Innovation Incubator Pvt. Ltd.**
+- Developed responsive web applications using modern frontend and backend technologies
+- Integrated AI-driven response handling features, improving user interaction workflows
+- Collaborated in a team to deliver real-time web solutions — feature dev, debugging, deployment
+- Gained hands-on experience in full-stack development and application workflows
+
+**🟢 Android Development Intern — LIT (Learning Institute of Technology)**
+- Worked on Android application development focusing on UI and functionality
+- Contributed to development tasks and learned mobile application workflows
+
+</details>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:7303C0,100:00F0FF&height=4&width=1000" width="100%"/>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<th align="center">Project</th>
+<th align="center">Stack</th>
+<th align="center">Highlights</th>
+</tr>
+<tr>
+<td align="center">📱<br/><b>MeetX Social Media</b></td>
+<td align="center"><code>MERN</code> <code>JWT</code> <code>OAuth</code></td>
+<td align="center">Role-based access, real-time messaging, AI-based support system, scalable REST APIs</td>
+</tr>
+<tr>
+<td align="center">🏆<br/><b>CHAKRAVYUH 1.0</b></td>
+<td align="center"><code>MERN</code> <code>JWT</code></td>
+<td align="center">Production hackathon platform — multi-role dashboards, live scoring, built for a 36-hr national hackathon</td>
+</tr>
+<tr>
+<td align="center">📈<br/><b>My Trade Journal</b></td>
+<td align="center"><code>MERN</code> <code>JWT</code></td>
+<td align="center">Trading analytics platform — automated P&L calculations, risk metrics, performance insights</td>
+</tr>
+<tr>
+<td align="center">🔗<br/><b>GetLinks URL Shortener</b></td>
+<td align="center"><code>Node.js</code> <code>Express</code> <code>MongoDB</code></td>
+<td align="center">Scalable link shortener with custom generation, input validation & efficient routing</td>
+</tr>
+<tr>
+<td align="center">🎓<br/><b>Alumni Portal</b></td>
+<td align="center"><code>MERN</code></td>
+<td align="center">Role-based alumni–student interaction platform with profile management</td>
+</tr>
+<tr>
+<td align="center">🏦<br/><b>Bank Management System</b></td>
+<td align="center"><code>MERN</code> <code>JWT</code></td>
+<td align="center">Multi-role banking simulation with structured APIs & interactive dashboard</td>
+</tr>
+<tr>
+<td align="center">🎟️<br/><b>BEHIND THE BROWSER</b></td>
+<td align="center"><code>MERN</code></td>
+<td align="center">Full-stack event platform — registration, QR check-ins, admin dashboard, certificate automation</td>
+</tr>
+<tr>
+<td align="center">☕<br/><b>Tanjore Coffee</b></td>
+<td align="center"><code>HTML</code> <code>CSS</code> <code>JS</code></td>
+<td align="center">Complete website redesign for a coffee brand</td>
+</tr>
+<tr>
+<td align="center">💻<br/><b>SQL Browser</b></td>
+<td align="center"><code>JS</code> <code>SQL</code></td>
+<td align="center">Run SQL queries directly in a web interface</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7303C0,100:FF00E5&height=4&width=1000" width="100%"/>
+
+<h2 align="center">🏅 Awards & Achievements</h2>
+
+<div align="center">
+
+🥇 Independently developed and managed **Hackisium 2.0** — a multi-role platform with structured workflows for registration, validation & real-time check-in operations
+<br/><br/>
+🤝 Contributed to **CHAKRAVYUH 1.0** by building core platform features: team workflows, authentication & evaluation systems for large-scale event execution
+<br/><br/>
+⚙️ Engineered modular backend APIs supporting concurrent operations — team management, judging systems & real-time status updates
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:7303C0,100:00F0FF&height=4&width=1000" width="100%"/>
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ommprakashsahu1234&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+
+<br/><br/>
+
+<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="72" title="Pair Extraordinaire"/>&nbsp;
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="72" title="Pull Shark"/>&nbsp;
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="72" title="YOLO"/>&nbsp;
+<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="72" title="Quickdraw"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7303C0,100:FF00E5&height=4&width=1000" width="100%"/>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ommprakashsahu1234&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00E5&text_color=ffffff&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ommprakashsahu1234&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=ffffff"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ommprakashsahu1234&theme=radical&hide_border=true&background=0D0221&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ommprakashsahu1234&theme=react-dark&hide_border=true&bg_color=0D0221&color=00F0FF&line=FF00E5&point=39FF14" width="95%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:7303C0,100:00F0FF&height=4&width=1000" width="100%"/>
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ommprakashsahu1234/ommprakashsahu1234/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ommprakashsahu1234/ommprakashsahu1234/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ommprakashsahu1234/ommprakashsahu1234/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ommprakashsahu1234/ommprakashsahu1234/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-<sub>⚙️ Generated automatically via GitHub Actions — see <code>.github/workflows/snake.yml</code> below to enable it on your own repo</sub>
+<sub>⚙️ Auto-generated daily via GitHub Actions — enable it using the <code>.github/workflows/snake.yml</code> file provided</sub>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7303C0,100:FF00E5&height=4&width=1000" width="100%"/>
 
-## 🎯 Achievements & Goals
-
-- 🔄 Working on hosting **backend on Render** & **frontend on Netlify**
-- 🤖 Building an **AI chatbot**
-- ⚛️ Mastering **React animations** & advanced Fullstack patterns
-- 🛡️ Exploring **Cybersecurity** & ethical hacking (Kali Linux)
-- 🎓 Class of **2027**, GITA Autonomous College
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## ⚡ Fun Fact
-
-> 🧠⚡ I once ran a full **WiFi deauthentication + cracking experiment**... on my own router!
-> 🤓 And yes — I wear glasses (**-2.25**) but still have **6/6 vision** with correction!
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<h2 align="center">⚡ Fun Fact</h2>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Keep+Learning+%26+Building!;Follow+your+curiosity!;Web+%7C+AI+%7C+Cybersecurity+%7C+IAF" />
+🧠⚡ I once ran a full **WiFi deauthentication + cracking experiment**... on my own router!
+<br/>
+🤓 And yes — I wear glasses (**-2.25**) but still have **6/6 vision** with correction!
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:7303C0,100:00F0FF&height=4&width=1000" width="100%"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Keep+Learning+%26+Building!;Follow+your+curiosity!;Web+%7C+AI+%7C+Cybersecurity"/>
 
 <br/>
 
-⭐️ **Thanks for visiting my profile — let's build something amazing together!** ⭐️
+⭐ **Thanks for visiting — let's build something amazing together!** ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,35:7303C0,70:00F0FF,100:0D0221&height=120&section=footer" width="100%"/>
 
 </div>
