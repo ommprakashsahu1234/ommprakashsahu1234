@@ -293,11 +293,6 @@ const ommPrakashSahu = {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:7303C0,100:00F0FF&height=4&width=1000" width="100%"/>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7303C0,100:FF00E5&height=4&width=1000" width="100%"/>
-
 <h2 align="center">⚡ Fun Fact</h2>
 
 <div align="center">
