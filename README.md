@@ -40,7 +40,7 @@
 <div align="center">
 
 ```typescript
-const ommPrakashSahu = {
+const OmmPrakashSahu = {
     location: "Bhubaneswar, Odisha, India 🇮🇳",
     education: "B.Tech CSE @ GITA Autonomous College (2023 - 2027)",
     cgpa: "7.91 / 10",
